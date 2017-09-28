@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">StopPrefect</string>
+    <string name="preview"><![CDATA[<=]]></string>
+    <string name="next"><![CDATA[=>]]></string>
+    <string name="save">Save</string>
+    <string name="date">Дата:</string>
+    <string name="status">Статус:</string>
+    <string name="settings_text">Настройки текста</string>
+    <string name="x_position">X position</string>
+    <string name="y_position">Y position</string>
+    <string name="x_pos_rus">X позиция</string>
+    <string name="y_pos_rus">Y позиция</string>
+    <string name="font_size">Размер шрифта:</string>
+    <string name="font_size_hint">Font Size</string>
+    <string name="font_type_text">Тип шрифта:</string>
+    <string name="color_text">Цвет текста:</string>
+    <string name="other_parametors">Прочие параметры</string>
+    <string name="quality_text">Качество картинки:</string>
+    <string name="settings_item">Настройки</string>
+    <string name="exit_item">Выход</string>
+    <string name="about_item">О программе</string>
+    <string name="save_settings">Сохранить настройки</string>
+    <string name="clear_source">Очистить Source</string>
+    <string name="clear_out">Очистить Out</string>
+    <string name="colorCode">Код цвета:</string>
+    <string name="set_date">Уст. дату</string>
+    <string name="vertical_photo">Вертикальное фото</string>
+    <string name="horizontal_photo">Горизонтальное фото</string>
+
+    <array name="font_type_array">
+        <item>По умолчанию</item>
+        <item>Monospace Normal</item>
+        <item>Serif Normal</item>
+        <item>Жирный</item>
+        <item>Жирный курсив</item>
+        <item>Курсив</item>
+    </array>
+</resources>
